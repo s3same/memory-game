@@ -1,14 +1,20 @@
 import { useState, useEffect } from 'react';
 import './App.css';
 import SingleCard from './components/SingleCard';
+import Helmet from './assets/images/helmet.png';
+import Potion from './assets/images/potion.png';
+import Ring from './assets/images/ring.png';
+import Scroll from './assets/images/scroll.png';
+import Shield from './assets/images/shield.png';
+import Sword from './assets/images/sword.png';
 
 const cardImages = [
-  { src: '/img/helmet.png', matched: false },
-  { src: '/img/potion.png', matched: false },
-  { src: '/img/ring.png', matched: false },
-  { src: '/img/scroll.png', matched: false },
-  { src: '/img/shield.png', matched: false },
-  { src: '/img/sword.png', matched: false },
+  { src: Helmet, matched: false },
+  { src: Potion, matched: false },
+  { src: Ring, matched: false },
+  { src: Scroll, matched: false },
+  { src: Shield, matched: false },
+  { src: Sword, matched: false },
 ];
 
 function App() {
@@ -89,6 +95,7 @@ function App() {
   return (
     <div className='App'>
       <h1>Magic Match</h1>
+      <p>Turns: {turns}</p>
       <button onClick={shuffleCards}>New Game</button>
       <div className='card-grid'>
         {cards.map((card) => (
@@ -101,7 +108,6 @@ function App() {
           />
         ))}
       </div>
-      <p>Turns: {turns}</p>
     </div>
   );
 }
