@@ -94,9 +94,9 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>Memory Game</h1>
+      <h1>Memory Match</h1>
       <p>Turns: {turns}</p>
-      <button onClick={shuffleCards}>New Game</button>
+      <button onClick={shuffleCards}>Reset</button>
       <div className='card-grid'>
         {cards.map((card) => (
           <SingleCard
