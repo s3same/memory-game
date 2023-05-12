@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/memory-game/static/css/main.280ea9b8.chunk.css",
-    "main.js": "/memory-game/static/js/main.4e98b163.chunk.js",
-    "main.js.map": "/memory-game/static/js/main.4e98b163.chunk.js.map",
-    "runtime-main.js": "/memory-game/static/js/runtime-main.1a93e015.js",
-    "runtime-main.js.map": "/memory-game/static/js/runtime-main.1a93e015.js.map",
-    "static/js/2.74e55fe6.chunk.js": "/memory-game/static/js/2.74e55fe6.chunk.js",
-    "static/js/2.74e55fe6.chunk.js.map": "/memory-game/static/js/2.74e55fe6.chunk.js.map",
-    "index.html": "/memory-game/index.html",
-    "static/css/main.280ea9b8.chunk.css.map": "/memory-game/static/css/main.280ea9b8.chunk.css.map",
-    "static/js/2.74e55fe6.chunk.js.LICENSE.txt": "/memory-game/static/js/2.74e55fe6.chunk.js.LICENSE.txt",
-    "static/media/cover.fdc04073.png": "/memory-game/static/media/cover.fdc04073.png",
-    "static/media/helmet.289d34aa.png": "/memory-game/static/media/helmet.289d34aa.png",
-    "static/media/potion.39128ec4.png": "/memory-game/static/media/potion.39128ec4.png",
-    "static/media/ring.eb335215.png": "/memory-game/static/media/ring.eb335215.png",
-    "static/media/scroll.7994baa9.png": "/memory-game/static/media/scroll.7994baa9.png",
-    "static/media/shield.686cf175.png": "/memory-game/static/media/shield.686cf175.png",
-    "static/media/sword.0f48f218.png": "/memory-game/static/media/sword.0f48f218.png"
+    "main.css": "/memory-match/static/css/main.f03c9ce6.chunk.css",
+    "main.js": "/memory-match/static/js/main.a29e0c15.chunk.js",
+    "main.js.map": "/memory-match/static/js/main.a29e0c15.chunk.js.map",
+    "runtime-main.js": "/memory-match/static/js/runtime-main.8ed76762.js",
+    "runtime-main.js.map": "/memory-match/static/js/runtime-main.8ed76762.js.map",
+    "static/js/2.a82d04e7.chunk.js": "/memory-match/static/js/2.a82d04e7.chunk.js",
+    "static/js/2.a82d04e7.chunk.js.map": "/memory-match/static/js/2.a82d04e7.chunk.js.map",
+    "index.html": "/memory-match/index.html",
+    "static/css/main.f03c9ce6.chunk.css.map": "/memory-match/static/css/main.f03c9ce6.chunk.css.map",
+    "static/js/2.a82d04e7.chunk.js.LICENSE.txt": "/memory-match/static/js/2.a82d04e7.chunk.js.LICENSE.txt",
+    "static/media/cover.fdc04073.png": "/memory-match/static/media/cover.fdc04073.png",
+    "static/media/helmet.289d34aa.png": "/memory-match/static/media/helmet.289d34aa.png",
+    "static/media/potion.39128ec4.png": "/memory-match/static/media/potion.39128ec4.png",
+    "static/media/ring.eb335215.png": "/memory-match/static/media/ring.eb335215.png",
+    "static/media/scroll.7994baa9.png": "/memory-match/static/media/scroll.7994baa9.png",
+    "static/media/shield.686cf175.png": "/memory-match/static/media/shield.686cf175.png",
+    "static/media/sword.0f48f218.png": "/memory-match/static/media/sword.0f48f218.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1a93e015.js",
-    "static/js/2.74e55fe6.chunk.js",
-    "static/css/main.280ea9b8.chunk.css",
-    "static/js/main.4e98b163.chunk.js"
+    "static/js/runtime-main.8ed76762.js",
+    "static/js/2.a82d04e7.chunk.js",
+    "static/css/main.f03c9ce6.chunk.css",
+    "static/js/main.a29e0c15.chunk.js"
   ]
 }
